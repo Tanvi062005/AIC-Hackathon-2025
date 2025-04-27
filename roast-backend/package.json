@@ -1,0 +1,16 @@
+{
+    "name": "roast-backend",
+    "version": "1.0.0",
+    "dependencies": {
+        "cohere-ai": "^7.17.1",
+        "openai": "^4.96.0"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
